@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Manage Categories";
+}
+
+@section AdminHeader
+{
+    <script type="text/javascript">
+        // Can also use beforeClose ?
+        $('.catfancybox').fancybox({
+            type: 'iframe',
+            padding: 15,
+            afterClose: function () {
+                parent.location.reload(true);
+            }
+        });
+    </script>
+}
+
+
+<div class="tabbable">
+    <ul class="nav nav-tabs" id="myTab">
+        <li class="active"><a data-toggle="tab" href="#maincats">Categories</a></li>
+        <li><a data-toggle="tab" href="#createnew">Create New</a></li>
+    </ul>
+
+
+    <div class="tab-content">
+        <div class="tab-pane active" id="maincats">
+            <div class="row-fluid">
+                <div class="span12">
+                    @Html.Action("GetMainCategories")
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane" id="createnew">
+            <div class="row-fluid">
+                <div class="span12">
+                    @Html.Action("CreateCategory")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+

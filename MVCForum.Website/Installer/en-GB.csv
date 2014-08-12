@@ -1,0 +1,270 @@
+Layout.Nav.Register,Register
+Layout.Nav.Logon,Log On
+Layout.Nav.Activity,Activity
+Layout.Nav.Leaderboard,Leaderboard
+Layout.Nav.Home,Home
+Layout.Nav.Admin,Admin
+Layout.CreateButton,New Discussion
+Layout.PoweredBy,Powered by 
+Topic.Votes,Votes
+Topic.Comments,Answers
+Topic.StartedBy,Started {0} by {1}
+Topic.InCategory, in 
+Topic.LatestBy,Latest By
+Topic.Views,Views
+Post.VoteUp,Vote Up
+Post.VoteDown,Vote Down
+Post.IsSolution,Is Solution
+Post.PostedThis,posted this
+Post.Posts,Posts
+Post.Points,Points
+Post.LastEdited,Last edited
+Post.Report,Report
+Post.Edit,Edit
+Post.Delete,Delete
+LogOn.LogOn,Log On
+LogOn.LogOff,Log Off
+Post.PleaseWait,Please Wait...
+Topic.DiscussionTaggedWith,Discussions Tagged With: 
+Topic.TitleFallBack,Discussion Topic
+Topic.Subscribe,Subscribe
+Topic.UnSubscribe,Unsubscribe
+Topic.IsLocked,Topic Is Locked
+Topic.CreateDiscussion,Create Discussion
+Topic.TagThisTopic,Tag this topic
+Tags.PopularTags,Popular Tags
+Stats.FooterMainStatText,Our {0} members have posted {1} times in {2} discussions
+Stats.LatestMembers,Latest Members:
+PM.Title,Message: 
+PM.From,From: 
+PM.Sent,Sent:
+PM.BackToInbox,Back To Inbox
+PM.Reply,Reply
+PM.SentPrivateMessages,Sent Private Messages
+PM.To,To
+PM.Subject,Subject
+PM.Date,Date
+PM.Read,Read
+PM.Delete,Delete
+PM.NoMessages,You currently don't have any private messages
+PM.Create,Create
+PM.ReceivedPrivateMessages,Received Private Messages
+PM.CreatePrivateMessage,Create Private Message
+PM.Send,Send
+PM.OriginalMessage,Original Message
+Buttons.Send,Send
+Report.ReportPostBy,Report Post By: 
+Buttons.Edit,Edit
+Points.ThisWeeksHighEarners,This Weeks High Earners
+SideBox.MyTools,My Tools
+PM.PrivateMessages,Private Messages
+Members.SearchMembers,Search Members
+Buttons.Search,Search
+Members.Users,Users
+Members.Points,Points
+Members.DateJoined,Date Joined
+Report.Report,Report 
+Members.Register,Register
+Members.AlreadyRegistered,You are already registered? Why would you want to do it again?
+Members.LogOnMessage,Please enter your user name and password. Or {0} if you don't have an account
+Buttons.LogOn,Log On
+Members.ProfileTitle, Profile
+Members.Profile.Joined,Joined:
+Members.Profile.Posts,Posts:
+Members.Profile.Points,Points:
+Buttons.Report,Report
+Members.Profile.Age,Age:
+Members.Profile.Location,Location:
+Members.Profile.Website,Website
+Members.Profile.Twitter,Twitter
+Members.Profile.Facebook,Facebook:
+Members.Profile.DiscussionActivity,Discussion Activity
+Ajax.PleaseWait,Please Wait...
+Members.Profile.Badges,Badges
+Members.EditProfile,Edit Profile
+Buttons.Save,Save
+Members.EditMember,Edit Member
+Leaderboard.ThisWeeksStars,This Weeks Stars
+Leaderboard.ThisYearsStars,This Years Rock Stars
+Leaderboard.LeaderboardTitle,Global Leaderboard
+Home.LatestDiscussions,Latest Discussions
+Home.Rss,Rss
+Activity.ActivityTitle,Activity
+Notification.SubscribeByEmail,Subscribe Via Email
+Notification.UnSubscribeByEmail,Unsubscribe From Emails
+Notification.Subscribe,Subscribe
+Notification.UnSubscribe,UnSubscribe
+Category.NoDiscussions,Currently no discussions in this category
+Category.CategoriesSideHeading,Categories
+PM.RecipientUsername,Recipient Username
+PM.MessageSubject,Subject
+Post.Label.TopicName,Topic Name
+Post.Label.IsStickyTopic,Is Sticky Topic
+Post.Label.LockTopic,Lock Topic
+Post.label.TopicCategory,Topic Category
+Members.Label.Username,Username
+Members.Label.EmailAddress,Email address (Used by Gravatar to show your Avatar image)
+Members.Label.Password,Password
+Members.Label.ConfirmPassword,Confirm Password
+Members.Label.UserIsApproved,User is Approved
+Members.Label.Comment,Comment
+Members.Label.Roles,Roles
+Members.Label.Signature,Signature
+Members.Label.Age,Age
+Members.Label.Location,Location
+Members.Label.Website,Website
+Members.Label.Twitter,Twitter Url
+Members.Label.Facebook,Facebook Page
+Members.Label.RememberMe,Remember Me?
+Members.Label.Users,Users
+Members.Label.DateJoined,Date Joined
+Errors.NoAccess,No Access
+Errors.GenericMessage,Sorry an error occured
+Errors.NoPermission,You do not have permission to perform this action
+Topic.Notification.NewTopics,A new topic has been created in the {0} category
+Topic.Notification.Subject,New Discussion On 
+PM.SendingToQuickly,You are trying to send messages to quickly
+PM.SentItemsOverCapcity,Your sent items is over capacity - delete messages to be able to send
+PM.ReceivedItemsOverCapcity,{0} has exceeded their inbox size - unable to send message
+PM.MessageSent,Message Sent
+PM.UnableFindMember,Unable to find that member
+PM.TalkToSelf,Talking to yourself is a bit weird. isn't it?
+Post.Updated,Post Updated
+Topic.Deleted,Topic Deleted
+Post.Deleted,Post Deleted
+Post.Notification.NewPosts,A new post has been created in the {0} topic
+Post.Notification.Subject,New Post On 
+Report.ReportSent,Report Sent
+Members.NowRegistered,You are now registered
+Members.NowRegisteredNeedApproval,You are now registered. But the forum admin must authorise your account
+Members.NowLoggedIn,You are now logged in
+Members.Errors.PasswordIncorrect,The user or password provided is incorrect.
+Members.Errors.PasswordAttemptsExceeded,The maximum number of password attempts has been exceeded.
+Members.Errors.UserLockedOut,User is locked out.
+Members.Errors.UserNotApproved,User has not been approved.
+Members.Errors.LogonGeneric,Unable to login.
+Members.NowLoggedOut,You are now logged out
+Member.ProfileUpdated,Profile Updated
+Language.Changed,Language Changed
+Rss.LatestActivity.Title,Latest Forum Discussions
+Rss.LatestActivity.Description,Recent discussions
+Errors.NothingToDisplay,Nothing To Display
+Rss.Category.Title,{0} Discussions
+Rss.Category.Description,Latest discussions happening in the {0} category
+Report.Reporter,Reporter
+Report.MemberReported,Member Reported
+Report.Reason,Reason
+Report.MemberReport,Member Report
+Report.Admin,Admin
+Report.PostReported,Post Reported In
+Report.PostReport,Post Report
+Badges.UnableToAward,Unable to award badges as badge collection is null for user {0}
+Badge.UnknownBadge,Unknown badge type {0}
+Badge.BadegEnumNoClass,The badge enum type {0} has no corresponding class specified.
+Members.Errors.DuplicateUserName,User name already exists. Please enter a different user name.
+Members.Errors.DuplicateEmail,A user name for that e-mail address already exists. Please enter a different e-mail address.
+Members.Errors.InvalidPassword,The password provided is invalid. Please enter a valid password value.
+Members.Errors.InvalidEmail,The e-mail address provided is invalid. Please check the value and try again.
+Members.Errors.InvalidAnswer,The password retrieval answer provided is invalid. Please check the value and try again.
+Members.Errors.InvalidQuestion,The password retrieval question provided is invalid. Please check the value and try again.
+Members.Errors.InvalidUserName,The user name provided is invalid. Please check the value and try again.
+Members.Errors.ProviderError,The authentication provider returned an error. Please verify your entry and try again. If the problem persists please contact your system administrator.
+Members.Errors.UserRejected,The user creation request has been canceled. Please verify your entry and try again. If the problem persists please contact your system administrator.
+Members.Errors.Unknown,An unknown error occurred. Please verify your entry and try again. If the problem persists please contact your system administrator.
+Members.NewMemberRegistered,New member registered on {0} ({1})
+Members.Admin,Admin
+Members.NewMemberSubject,New Member Registered
+Members.CantUnlock,User does not exist - cannot unlock.
+Members.ForgotPassword.Email,You have requested that your password is reset on {0}. Your new password is below
+Members.ForgotPassword.Subject,Password Reset
+Members.ForgotPassword.SuccessMessage,A new password has been emailed to you
+Members.ForgotPassword.ErrorMessage,Error resetting password
+Members.ChangePassword.Success,Password Changed
+Members.ChangePassword.Error,The current password is incorrect or the new password is invalid.
+Buttons.ChangePassword,Change Password
+Members.ChangePassword.Title,Change Password
+Members.ChangePassword.Text,New passwords are required to be a minimum of {0} characters in length.
+Members.ChangePassword.Link,Click here if you want to {0}
+Members.ForgotPassword.Title,Forgot Password
+Buttons.ResetPassword,Reset Password
+Members.ForgotPassword.Link,Forgot your password?
+Members.Label.CurrentPassword,Current Password
+Members.Label.NewPassword,New Password
+Members.Label.ConfirmNewPassword,Confirm New Password
+Members.Label.EmailAddressBlank,Enter your email address
+Activity.Badge,badge 
+Activity.UserAwardedBadge,has been awarded the
+Activity.UserJoined,is a new member in the forum
+Activity.ProfileUpdated,has an updated profile
+Topic.Label.SubscribeToTopic,Get notified of replies?
+Badges.PageTitle,Badges
+Layout.Nav.Badges,Badges
+Topic.Label.TopicTitle,Title
+Poll.Button.Create,Add A Poll To This Topic
+Poll.Placeholder.TypeAnswerHere,Type A Poll Answer Here
+Topic.OptionsHeading,Topic Options
+Poll.Button.Remove,Remove Poll From Topic
+Poll.Button.Vote,Submit Vote
+Error.WrongAnswerRegistration,There was an error with your answer. Please try again
+Members.LoginOrText,Or
+Facebook.Error.EnabledButNotAddedKeys,You have enabled Facebook login but not added your AppId or Secret key to the web.config
+Members.Profile.IsSocialAccount,Social Account
+Date.JustNow,Just now
+Date.OneMinuteAgo,1 minute ago
+Date.MinutesAgo,{0} minutes ago
+ Date.OneHourAgo,1 hour ago
+Date.HoursAgo,{0} hours ago
+Date.Yesterday,yesterday
+Date.DaysAgo,{0} days ago
+Date.WeeksAgo,{0} weeks ago
+Side.Search,Search
+Search.NoResults,Sorry no results found
+Topic.CommentsDetails,Comments
+Members.DeleteAllPosts,Delete All Posts
+Buttons.CreatePost,Add Post
+Topic.Label.Category,Choose Category
+Editor.NeedHelp,Need formatting help?
+Members.BanUser,Ban User
+Members.UnBanUser,Unban User
+Errors.NoPermissionPolls,Topic Created. But you do not have permission to create polls
+Topic.ShowMorePosts,Show More Posts
+Topic.ShowMorePostsLoading,Loading Posts...
+Topic.AlreadyAnswered,Questions that may already have your answer
+Topic.Comment,Answer
+Stats.FooterActiveUsersText,Members Currently Online:
+PostFilter.OrderBy,Order By:
+PostFilter.Standard,Standard
+PostFilter.Newest,Newest
+PostFilter.Votes,Votes
+PM.NewPrivateMessageSubject,New Private Message
+PM.NewPrivateMessageBody,{0} has just sent you a private message.
+Post.DeleteConfirmation,Are you sure you want to delete?
+Category.SubCategoriesHeading,Sub Categories In
+Category.AllCategories,All Categories
+Category.MostRecent,Most recent:
+Members.LogonFacebookButton,Login with Facebook
+Members.LogonGoogleButton,Login with Google
+Members.LogonYahooButton,Login with Yahoo
+Members.LogonTwitterButton,Login with Twitter
+Twitter.Error.EnabledButNotAddedKeys,You have enabled social logins but not added the Twitter id and secret key in the web.config
+Error.EmailIsBanned,The email address or domain you are trying to use is banned
+Post.FilesUploaded,Files uploaded successfully
+Post.Attach,Attach
+Post.Upload,Upload Files
+Post.UploadBannedFileExtension,File extension not allowed
+Post.UploadFileTooBig,File upload is too big
+File.SuccessfullyDeleted,File deleted
+Members.MemberEmailAuthorisationNeeded,We have sent you a confirmation email - please click the confirmation link in your email to approve your account.
+Members.MemberEmailAuthorisation.EmailBody,You have registered on {0} - In order to continue you must confirm your email address by clicking the link below. {1}
+Members.MemberEmailAuthorisation.Subject,Email Confirmation
+Members.NowApproved,Your account has now been approved - Thank you
+Members.MemberEmailAuthorisationNeededMessage,Click the link in your confirmation email to approve your account.
+Members.MemberEmailAuthorisationResend,Resend Confirmation Email
+Members.MessageMe,Message Me
+Confirmation.DeleteMembersPosts,Are you sure? This will delete all the members posts and topics!
+Moderate.AwaitingModeration,Your post is currently awaiting moderation. Once approved it will appear on the site
+Badges.AwardsPoints,Awards {0} points
+Language.Change,Change Language
+Post.Quote,Quote
+Members.Label.UploadNewAvatar,Upload a new profile image
+Member.HasNewPrivateMessages,You have new unread Private messages
