@@ -221,10 +221,12 @@ textarea {
   }
 }
 
+/* yyoo */
 body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  /* font-size: 14px; */
+  font-size: 12px;
   line-height: 20px;
   color: #333333;
   background-color: #ffffff;
@@ -732,13 +734,15 @@ a.text-success:focus {
   text-align: center;
 }
 
+/* yyoo */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  margin: 10px 0;
+  /* margin: 10px 0; */
+  margin: 0 0;
   font-family: inherit;
   font-weight: bold;
   line-height: 20px;
